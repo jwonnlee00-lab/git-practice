@@ -1,1 +1,1 @@
-# Git Practice
+# Git 협업 연습 - 민수 수정
